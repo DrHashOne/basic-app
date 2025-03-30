@@ -5,7 +5,7 @@ export default function Home() {
     <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
       <Head>
         <title>IoT Solutions</title>
-        <meta name="description" content="Innovative IoT solutions for a connected world" />
+        <meta name="description" content="Innovative IoT solutions for a connected world with heart" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       

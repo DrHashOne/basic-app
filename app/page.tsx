@@ -11,6 +11,7 @@ export default function Home() {
       
       <main className="text-center p-6 bg-white shadow-lg rounded-2xl max-w-2xl">
         <h1 className="text-4xl font-bold mb-4 text-blue-600">Smart IoT Solutions</h1>
+        <h2>lets rock</h2>
         <p className="text-gray-700 mb-4">Empowering the future with cutting-edge IoT technology.</p>
         <button className="mt-4 px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition">Get Started</button>
       </main>
